@@ -1,0 +1,7 @@
+1-. npx create-react-app contador-clicks
+2-. Eliminar archivos innecesarios:
+-setutest, reportwebvitals, , apptest, logosReact, (recordar borrar los imports y los returns exports que borré).
+-Borrar todo lo que hay dentro de app.css ya que no se usará ninguna regla de ahí.
+
+Hooks, permite usar componentes funcionales:
+useState -> agrega un estado a un componente funcional.
